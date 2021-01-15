@@ -1,10 +1,7 @@
 package com.file_handling;
 /**
  * @author Sandeep_Singh
- * Functionality: Create an Employee Payroll Service to Read and Write Employee Payroll to a Console.
- *                Create Employee Payroll Class of id, name and Salary -
- *                Read the information from the Console.
- *                write the Employee Payroll to the Console.
+ * Functionality: Read and Write By using File Stream
  *
  */
 
